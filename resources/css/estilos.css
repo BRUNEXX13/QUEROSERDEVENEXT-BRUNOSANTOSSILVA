@@ -1,0 +1,415 @@
+header {
+    background: silver none repeat scroll 0 0;
+}
+.navbar-default{
+	
+    background: #523468;
+    font-Family: DoidSans;
+   
+}
+
+.dropdown-toggle
+{
+
+	
+	color: red;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: #ddd;
+}
+
+
+
+
+
+
+
+.lgin
+
+{
+	
+	color: white;
+	position: relative;
+	left: -150px;
+}
+
+.lgup
+{
+	color: white;
+	position: relative;
+	left: -150px;
+	
+}
+
+#meulink
+{
+ color: red;
+
+}
+
+
+
+
+
+.bs-example {
+    color: red;
+}
+.Potions {
+    color: red;
+}
+.over50 {
+    font-family: serif;
+    font-size: 16px;
+    color: red;
+}
+
+
+.Pottext
+{
+	    font-Family: Oswald-Regular;
+	    font-size: 16px;
+		margin-bottom: 50px;
+		
+		
+}
+
+
+.lgsigin
+{
+	
+	font-size: 30px;
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+
+.pocao
+{
+	
+	margin-bottom: 300px;
+}
+
+
+.produtos
+{
+	
+	color: black;
+	font-style: italic;
+}
+.preco
+{
+	color: red;
+	
+}
+
+
+.itemlinha1
+
+{
+	
+	padding-bottom: 5px;
+}
+
+.itemlinha2
+
+{
+		padding-top: 25px;
+	
+}
+
+
+.meuitem
+{
+	
+	color: black;
+    margin-bottom: 50px;
+}
+	
+
+.numero
+
+{
+	
+	color: red;
+	font-weight: bold;
+}
+
+
+.descricaoproduto
+{
+	
+	color: black;
+	font-weight: bold;
+	font-size: 12 px;
+	font-Family: DoidSans;
+
+}
+
+
+
+
+.cont {
+    position: relative;
+    top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+
+    background: #E6E6E6;
+    color: #D73A1E;
+    font-size: 14px;
+    font-weight: lighter;
+    font-Family: Verdana;
+    
+
+ 
+}
+
+
+.panel-body
+{
+	
+	
+	font-size: 14px;
+	font-family: Owswald;
+	 
+	
+}
+
+
+.panel-default
+
+{
+	
+	font-size: 10px;
+	float: right;
+	
+}
+
+
+
+
+.rodape
+
+{
+	color:#6A6666;
+	font-size: 10px;
+	padding: 10px;
+	font-family: verdana;
+	
+}
+
+
+    
+
+
+
+
+.bag
+
+{
+	color:silver;
+	font-weight: bold;
+	font-size: 16px;
+	font-Family: DroidSans;
+	
+}
+
+
+
+.in 
+{
+	color: black;
+	font-family: Verdana;
+	font-size: 12px;
+	}
+
+
+.up
+
+{
+	color: black;
+	font-weight:lighter;
+	font-style:italic;
+	font-size: 16px;
+	font-family: Oswald-Regular;
+	
+}
+
+
+
+
+
+
+
+
+
+#custom-search-input .search-query {
+    border-radius: 3px;
+    margin-bottom: 0;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+#custom-search-input button {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 3px;
+    color: #d9230f;
+    left: -28px;
+    margin-bottom: 0;
+    margin-top: 2px;
+    padding: 2px 5px;
+    position: relative;
+}
+.search-query:focus + button {
+    z-index: 3;
+}
+
+
+
+.icon-circle .fa {
+    border: 2px solid #e84700;
+    border-radius: 50%;
+    color: #523468;
+    cursor: pointer;
+    font-size: 6px;
+    height: 40px;
+    line-height: 40px;
+    margin: auto;
+    transition: all 0.2s ease-in-out 0s, background-color 0.05s ease-in-out 0s;
+    width: 40px;
+}
+.icon-circle .fa:hover {
+    background-color: #e84700;
+    border: 1px solid #e84711;
+    box-shadow: 0 0 0 5px #ffffff inset;
+    color: #fff;
+    transform: scale(1.2, 1.2);
+}
+.icon-circle i::before {
+    font-size: 20px;
+    margin-left: 0;
+    background-color: #523468;
+    font-size: 10px;
+}
+@media (min-width: 320px) and (max-width: 768px) {
+.icon-circle .fa {
+    border: 2px solid #523468;
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    transition: all 0.2s ease-in-out 0s, background-color 0.05s ease-in-out 0s;
+    width: 40px;
+}
+.icon-circle .fa:hover {
+    background-color:#523468;
+    border: 1px solid #e84711;
+    box-shadow: 0 0 0 5px #ffffff inset;
+    color: #fff;
+    transform: scale(1.2, 1.2);
+}
+.icon-circle i::before {
+    font-size: 20px;
+    margin-left: 0;
+}
+}
+.ifacebook .fa {
+    border: 2px solid #523468;
+    color: #fff;
+    background: #523468;
+}
+.ifacebook .fa:hover {
+    background-color: #4267B2;
+    border: 1px solid 
+    color:  #fff;
+}
+.itwittter .fa {
+    border: 2px solid #523468;
+    color: #fff;
+    background-color: #523468;
+}
+.itwittter .fa:hover {
+    background-color: #33ccff;
+    border: 1px solid #33ccff;
+    color: #fff;
+}
+.igoogle .fa {
+    border: 2px solid #523468;
+    color: #fff;
+    background: #523468;
+}
+.igoogle .fa:hover {
+     background-color: #D01818;
+    border: 1px solid #D01818;
+    color: #fff;
+    
+    
+}
+.iLinkedin .fa {
+     border: 2px solid #523468;
+    color: #fff;
+    background: #523468;
+}
+.iLinkedin .fa:hover {
+   background-color: #4267B2;
+    border: 1px solid #4267B2;
+    color: #fff;
+    
+    
+    
+}
+
+.iTwitter .fa:hover{
+ border: 2px solid #523468;
+    color: #fff;
+    background: #523468;
+}
+    
+.iTwitter .fa{
+  border: 2px solid #523468;
+    color: #fff;
+    background: #523468;
+}
+
+
+.ipinterest .fa {
+    border: 2px solid #523468;
+    color: #fff;
+    background: #523468;
+}
+.ipinterest .fa:hover {
+    background-color: #BD081C;
+    border: 2px solid  #BD081C;
+   color: #fff;
+   
+  
+    
+   
